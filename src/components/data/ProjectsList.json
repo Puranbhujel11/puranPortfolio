@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "SQL Project Coming soon",
+        "img": "prodimages/coming.jpg",
+        "Skill": "SQL",
+        "btn": "https://github.com/Puranbhujel11"
+    },
+    {
+        "id": 2,
+        "name": "Excel Project Coming soon",
+        "img": "prodimages/coming.jpg",
+        "Skill": "Spreadsheet",
+        "btn": "https://github.com/Puranbhujel11"
+    },
+    {
+        "id": 3,
+        "name": "Capstone Project Coming soon",
+        "img": "prodimages/coming.jpg",
+        "Skill": "MultiSkills",
+        "btn": "https://github.com/Puranbhujel11"
+    },
+    {
+        "id": 4,
+        "name": "Demo Video Coming soon",
+        "img": "prodimages/coming.jpg",
+        "Skill": "Demo Video",
+        "btn": "https://github.com/Puranbhujel11"
+    }
+]
